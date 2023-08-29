@@ -187,17 +187,17 @@ No prior programming or data analysis experience is required.
 
 # Note about learning programming
 
--   One of the aims of this class is to help students begin to develop data
-
-analysis and programming skills that they can use as a part of
-carrying out research. But like learning any new skill, such as a new
-spoken language, it takes time and can be frustrating at first. This
-course does not require students to have any programming background.
-Realistically it is not possible to become a fully proficient
-programmer in just one semester. However, the lab sessions and
-assignments are focused on helping you begin this process and to
-become comfortable with reading, understanding and modifying Python
-and R code examples that you can find on the web etc.
+-   One of the aims of this class is to help students begin to develop
+    data analysis and programming skills that they can use as a part of
+    carrying out research. But like learning any new skill, such as a
+    new spoken language, it takes time and can be frustrating at
+    first. This course does not require students to have any programming
+    background. Realistically it is not possible to become a fully
+    proficient programmer in just one semester. However, the lab
+    sessions and assignments are focused on helping you begin this
+    process and to become comfortable with reading, understanding and
+    modifying Python and R code examples that you can find on the web
+    etc.
 
 -   **Using generative AI tools** - We will talk more about the potential
     benefits and drawbacks of using generative AI tools such as ChatGPT
