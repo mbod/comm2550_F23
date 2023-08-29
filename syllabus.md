@@ -154,8 +154,7 @@ No prior programming or data analysis experience is required.
 
 1.  McGregor, S.E. (2021) *Practical Python Data Wrangling and Data
     Quality*. O'Reilly Media. (This text is available through the Penn
-    library
-    [[<https://learning.oreilly.com/library/view/practical-python-data/9781492091493/>][]])
+    library: <https://learning.oreilly.com/library/view/practical-python-data/9781492091493/>)
     -   We will use certain sections of this book in the lab sessions for
         learning how to work with data using Python. The whole book is a
         useful reference and introduction.
