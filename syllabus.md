@@ -217,16 +217,14 @@ and R code examples that you can find on the web etc.
 
 ## Class structure
 
--   Usually each class session will be divided into two
+-   Usually each class session will be divided into two parts:
 
-parts:
-
-1.  **Content and Discussion** - This part of the class will introduce
+-   **Content and Discussion** - This part of the class will introduce
     and review the key topics onlined in the schedule. It is important
     that you read the assigned material BEFORE the class as you'll be
     expected to engage in discussion and other activities based on this
     content.
-2.  **Lab activities** - The second part will be focused on pratical
+-   **Lab activities** - The second part will be focused on pratical
     exercises to put into practice what we have been learning about
     thinking about, collecting, analyzing, interpreting and
     communicating data. This will include learning some basic steps
