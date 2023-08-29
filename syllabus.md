@@ -6,7 +6,7 @@
 ## Fall 2023
 
 
-### Tue/Thur 10.15-11.30am (Room: ASC 109)
+### Tue/Thur 10.15-11.45am (Room: ASC 109)
 
 
 ### Professor: Matt O'Donnell (he/him/his)
