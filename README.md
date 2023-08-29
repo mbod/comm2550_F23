@@ -3,7 +3,7 @@
 
 ### Fall 2023
 
-#### Tue/Thu 10.15-11.30am (Room: ASC xxx)
+#### Tue/Thu 10.15-11.30am (Room: ASC 109)
 
 
 
