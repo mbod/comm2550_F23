@@ -144,10 +144,10 @@ No prior programming or data analysis experience is required.
 ## Textbooks
 
 -   The two books by Ben Jones in *The Data Literacy Series*:
-    1.  /Data Literacy Fundamentals: Understanding the Power & Value of
-        Data/(Abbreviated as `DLF` on schedule)
-    2.  /Learning to See Data: How to Interpret the Visual Language of
-        Charts/(Abbreviates as `LSD` on schedule)
+    1.  *Data Literacy Fundamentals: Understanding the Power & Value of
+        Data* (Abbreviated as `DLF` on schedule)
+    2.  *Learning to See Data: How to Interpret the Visual Language of
+        Charts* (Abbreviates as `LSD` on schedule)
 
 
 ## References for Python and R coding
