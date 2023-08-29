@@ -24,11 +24,11 @@
 # IMPORTANT NOTICES
 
 
-## 1. Wearing a masks is **REQUESTED** in this class
+## 1. Wearing a mask is **REQUESTED** in this class
 
 -   To reduce the risk of infection and increase the possibility of
     wellness allowing us to focus on learning and working together, it
-    is requested that you consider make sure you are wearing a face mask
+    is requested that you consider wearing a face mask
     fully covering both mouth and nose *before* you enter the classroom
     and keep it in place *at all times*.
 
@@ -37,6 +37,15 @@
     [EHRS-recommended
     Aries mask](https://ehrs.upenn.edu/covid-19/mask-guidance-march-15-2022) as opposed to a single layer cloth mask)." (UPenn Public
     Health Guidance).
+
+-   This is a request for us to think socially about how our choices
+    impact others and how we can maximize learning opportunities. There
+    is some data and a infographic you can critique as budding data
+    scientists at <https://bit.ly/MMWR7106>. **Please respect each other's
+    choices on this issue**.
+
+-   The information and advice on [this page](https://www.georgetown.edu/coronavirus/) (from a different
+    educational institution) is helpful.
 
 
 ## 2. ZOOM AND CLASS RECORDINGS
@@ -179,19 +188,24 @@ No prior programming or data analysis experience is required.
 
 # Note about learning programming
 
-One of the aims of this class is to help students begin to develop data
-analysis and programming skills that they can use as a part of carrying
-out research. But like learning any new skill, such as a new spoken
-language, it takes time and can be frustrating at first. This course
-does not require students to have any programming background.
-Realistically it is not possible to become a fully proficient programmer
-in just one semester. However, the lab sessions and assignments are
-focused on helping you begin this process and to become comfortable with
-reading, understanding and modifying Python and R code examples that you
-can find on the web etc.
+-   One of the aims of this class is to help students begin to develop data
 
+analysis and programming skills that they can use as a part of
+carrying out research. But like learning any new skill, such as a new
+spoken language, it takes time and can be frustrating at first. This
+course does not require students to have any programming background.
+Realistically it is not possible to become a fully proficient
+programmer in just one semester. However, the lab sessions and
+assignments are focused on helping you begin this process and to
+become comfortable with reading, understanding and modifying Python
+and R code examples that you can find on the web etc.
 
-## TODO Add note about Generative AI and learning to program
+-   **Using generative AI tools** - We will talk more about the potential
+    benefits and drawbacks of using generative AI tools such as ChatGPT
+    and Copilot to learn programming as the course progresses. There is
+    neither a blanket prohibition or full encouragement for the use of
+    these developing tools in this course. I will provide more guidance
+    as we go along.
 
 ---
 
