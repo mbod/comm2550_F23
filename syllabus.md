@@ -244,6 +244,10 @@ No prior programming or data analysis experience is required.
 
 ### Thursday 31 August
 
+-   JupyterHub setup
+-   Setting up Quantified Self survey
+-   Working with Markdown
+
 
 ## Week 2 - What is data and the DISW hierarchy
 
