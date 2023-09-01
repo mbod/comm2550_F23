@@ -251,11 +251,33 @@ No prior programming or data analysis experience is required.
 
 ## Week 2 - What is data and the DISW hierarchy
 
+-   READINGS: `DLF` Chs. 1 & 2
+
 
 ### Tuesday 05 September
 
+-   DIKW pyramid and systems of thinking
+
+-   Python Basics Part 1
+    -   Objects
+    -   Named pointers
+    -   Data types (\`str\`, \`int\` and \`float\` objects)
+    -   Lists
+        -   indexing
+        -   list specific functions
+            -   `count()`
+            -   `index()`
+
 
 ### Thursday 07 September
+
+-   Lab Session
+    -   Working with Python basics and data
+
+
+### QUIZ 1 DUE - Friday 08 Septermber @ 11.59pm
+
+-   Submit in Canvas
 
 
 ## Week 3 - Domains of data and Data typology
