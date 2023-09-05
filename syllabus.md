@@ -283,7 +283,7 @@ No prior programming or data analysis experience is required.
     -   Working with Python basics and data
 
 
-### QUIZ 1 DUE - Friday 08 Septermber @ 11.59pm
+### QUIZ 1 DUE - Friday 08 September @ 11.59pm
 
 -   Submit in Canvas
 
@@ -319,7 +319,7 @@ No prior programming or data analysis experience is required.
         -   \`for\` construct
 
 
-### QUIZ 2 DUE - Friday 15 Septermber @ 11.59pm
+### QUIZ 2 DUE - Friday 15 September @ 11.59pm
 
 -   Submit in Canvas
 
@@ -351,7 +351,7 @@ No prior programming or data analysis experience is required.
         -   JSON
 
 
-### QUIZ 3 DUE - Friday 22 Septermber @ 11.59pm
+### QUIZ 3 DUE - Friday 22 September @ 11.59pm
 
 -   Submit in Canvas
 
@@ -382,7 +382,7 @@ No prior programming or data analysis experience is required.
         -   \`plotly.express\`
 
 
-### QUIZ 4 DUE - Friday 29 Septermber @ 11.59pm
+### QUIZ 4 DUE - Friday 29 September @ 11.59pm
 
 -   Submit in Canvas
 
