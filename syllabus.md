@@ -149,6 +149,14 @@ No prior programming or data analysis experience is required.
     2.  *Learning to See Data: How to Interpret the Visual Language of
         Charts* (Abbreviates as `LSD` on schedule)
 
+-   Some chapters from following book (Abbreviated as `DSIC` on schedule):
+    
+    Spector, A.Z., Norvig, P., Wiggins, C. and Wing,
+    J.M. (2023). *Data Science in Context: Foundations, Challenges,
+    Opportunities*. Cambrdige: Cambridge University Press.
+    
+    Book is available online through the library.
+
 
 ## References for Python and R coding
 
@@ -251,7 +259,7 @@ No prior programming or data analysis experience is required.
 
 ## Week 2 - What is data and the DISW hierarchy
 
--   READINGS: `DLF` Chs. 1 & 2
+-   READINGS: `DLF` Chs. 1 & 2; `DSIC` Introduction (pp. 1-4)
 
 
 ### Tuesday 05 September
@@ -261,7 +269,7 @@ No prior programming or data analysis experience is required.
 -   Python Basics Part 1
     -   Objects
     -   Named pointers
-    -   Data types (\`str\`, \`int\` and \`float\` objects)
+    -   Data types (`str`, `int` and `float` objects)
     -   Lists
         -   indexing
         -   list specific functions
@@ -282,29 +290,101 @@ No prior programming or data analysis experience is required.
 
 ## Week 3 - Domains of data and Data typology
 
+-   READINGS: `DLF` Chs. 3 & 4; `DSIC` Ch. 1 sect 1.1 (pp. 7-13)
+
 
 ### Tuesday 12 September
+
+-   Domains of Data
+    -   Private
+    -   Public
+    -   Personal
+-   Data measurement and levels
+    -   Reliability and Validity
+    -   NOIR typology for data
+        -   Nominal
+        -   Ordinal
+        -   Interval
+        -   Ratio
 
 
 ### Thursday 14 September
 
+-   Python basics Part 2
+    -   More on \`list\` objects
+    -   Conditional constructs
+        -   Tests and \`if\` constructs
+        -   \`if\` and \`else\`
+    -   Walking through data using loops
+        -   \`for\` construct
+
+
+### QUIZ 2 DUE - Friday 15 Septermber @ 11.59pm
+
+-   Submit in Canvas
+
 
 ## Week 4 - Forms of Data Analysis and Visualization
+
+-   READINGS: `DLF` Ch. 5; `LSD` Introduction & Ch.1; `DSIC` Ch. 2 (pp. 29-36)
 
 
 ### Tuesday 19 September
 
+-   Types of data analysis
+    1.  Descriptive
+    2.  Inferential
+    3.  Diagnostic
+    4.  Predictive
+    5.  Prescriptive
+-   Visualizing and discovering patterns in data
+-   Basic typology for visualizing data
+
 
 ### Thursday 21 September
+
+-   Python basics Part 3
+    -   Dictionaries (\`dict\` object)
+    -   Data structures
+        -   List-of-lists
+        -   List-of-dictionaries
+        -   JSON
+
+
+### QUIZ 3 DUE - Friday 22 Septermber @ 11.59pm
+
+-   Submit in Canvas
 
 
 ## Week 5 - Representing and visualizing data
 
+-   READINGS: `DLF` Ch. 6; `LSD` Ch.2; `DSIC` Ch. 3 (pp. 37-40)
+
 
 ### Tuesday 26 September
 
+-   Levels and use of data
+    1.  Figures
+    2.  Tables
+    3.  Statistics
+    4.  Visualizations
+    5.  Dashboards
+    6.  Data stories
+
 
 ### Thursday 28 September
+
+-   Working with tabular data
+    -   Using \`pandas\` \`DataFrame\` object
+    -   Plotting with
+        -   \`matplotlib\`
+        -   \`seaborn\`
+        -   \`plotly.express\`
+
+
+### QUIZ 4 DUE - Friday 29 Septermber @ 11.59pm
+
+-   Submit in Canvas
 
 
 ## Week 6 - Working with tables, steps in data exploration and comparisons
