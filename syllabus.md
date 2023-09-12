@@ -295,6 +295,20 @@ No prior programming or data analysis experience is required.
 
 ### Tuesday 12 September
 
+-   Python basics Part 2
+    -   More on \`list\` objects
+    -   Conditional constructs
+        -   Tests and \`if\` constructs
+        -   \`if\` and \`else\`
+    -   Walking through data using loops
+        -   \`for\` construct
+
+-   How assignments work
+    -   Assignment 1 overview
+
+
+### Thursday 14 September
+
 -   Domains of Data
     -   Private
     -   Public
@@ -308,20 +322,14 @@ No prior programming or data analysis experience is required.
         -   Ratio
 
 
-### Thursday 14 September
-
--   Python basics Part 2
-    -   More on \`list\` objects
-    -   Conditional constructs
-        -   Tests and \`if\` constructs
-        -   \`if\` and \`else\`
-    -   Walking through data using loops
-        -   \`for\` construct
-
-
 ### QUIZ 2 DUE - Friday 15 September @ 11.59pm
 
 -   Submit in Canvas
+
+
+### ASSIGNMENT 1 DUE - Saturday 17 September @ 11.59pm
+
+-   Submit through JupyterHub
 
 
 ## Week 4 - Forms of Data Analysis and Visualization
@@ -330,6 +338,16 @@ No prior programming or data analysis experience is required.
 
 
 ### Tuesday 19 September
+
+-   Python basics Part 3
+    -   Dictionaries (\`dict\` object)
+    -   Data structures
+        -   List-of-lists
+        -   List-of-dictionaries
+        -   JSON
+
+
+### Thursday 21 September
 
 -   Types of data analysis
     1.  Descriptive
@@ -341,19 +359,12 @@ No prior programming or data analysis experience is required.
 -   Basic typology for visualizing data
 
 
-### Thursday 21 September
-
--   Python basics Part 3
-    -   Dictionaries (\`dict\` object)
-    -   Data structures
-        -   List-of-lists
-        -   List-of-dictionaries
-        -   JSON
-
-
 ### QUIZ 3 DUE - Friday 22 September @ 11.59pm
 
 -   Submit in Canvas
+
+
+### ASSIGNMENT 2 DUE Saturday 23 September @ 11.59pm
 
 
 ## Week 5 - Representing and visualizing data
@@ -362,6 +373,16 @@ No prior programming or data analysis experience is required.
 
 
 ### Tuesday 26 September
+
+-   Working with tabular data
+    -   Using \`pandas\` \`DataFrame\` object
+    -   Plotting with
+        -   \`matplotlib\`
+        -   \`seaborn\`
+        -   \`plotly.express\`
+
+
+### Thursday 28 September
 
 -   Levels and use of data
     1.  Figures
@@ -372,16 +393,6 @@ No prior programming or data analysis experience is required.
     6.  Data stories
 
 
-### Thursday 28 September
-
--   Working with tabular data
-    -   Using \`pandas\` \`DataFrame\` object
-    -   Plotting with
-        -   \`matplotlib\`
-        -   \`seaborn\`
-        -   \`plotly.express\`
-
-
 ### QUIZ 4 DUE - Friday 29 September @ 11.59pm
 
 -   Submit in Canvas
@@ -389,20 +400,48 @@ No prior programming or data analysis experience is required.
 
 ## Week 6 - Working with tables, steps in data exploration and comparisons
 
+-   READINGS: `DLF` Ch. 7; `LSD` Ch.3; `DSIC` Part 1 Recap (pp. 41-44)
+
 
 ### Tuesday 03 October
+
+-   Using \`pandas\` for exploratory data analysis
+-   Working with a CSV file in \`pandas\`
+    -   Loading data into a \`DataFrame\`
+    -   Examining shape
+        -   ROWS - observation unit
+        -   COLUMNS - variables
+    -   Exploratory analysis of variables
+        -   Creating summaries
+        -   Counts for categorical data
+        -   Summary statistics for continuous data
+    -   Plots
+        -   Bar charts for categorical data
+        -   Histograms for continuous data
 
 
 ### Thursday 05 October
 
 
-## Week 7 -
+## Week 7 - Reviewing data analysis process
 
 
 ### Tuesday 10 October
 
+-   Step 1. Load data
+-   Step 2. Inspect data shape and content
+-   Step 3. Describe variables
+-   Step 4. Summarize variables
+-   Step 5. Clean and subset data
+-   Step 6. Look for assications and patterns (2+ variables)
+-   Step 7. Build and test models
+-   Step 8. Tell the story
+
 
 ### Thursday 12 October **NO CLASS FALL BREAK**
+
+
+### NO QUIZ OR ASSIGNMENT THIS WEEK
 
 
 ## Week 8 -
