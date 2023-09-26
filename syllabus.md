@@ -314,12 +314,17 @@ No prior programming or data analysis experience is required.
     -   Public
     -   Personal
 -   Data measurement and levels
+    
     -   Reliability and Validity
     -   NOIR typology for data
         -   Nominal
         -   Ordinal
         -   Interval
         -   Ratio
+    
+    -   Data Science
+        -   INSIGHTS
+        -   CONCLUSIONS
 
 
 ### QUIZ 2 DUE - Friday 15 September @ 11.59pm
@@ -341,10 +346,12 @@ No prior programming or data analysis experience is required.
 
 -   Python basics Part 3
     -   Dictionaries (\`dict\` object)
-    -   Data structures
-        -   List-of-lists
-        -   List-of-dictionaries
-        -   JSON
+    -   Functions
+
+-   Data structures
+    -   List-of-lists
+    -   List-of-dictionaries
+    -   JSON
 
 
 ### Thursday 21 September
@@ -364,7 +371,7 @@ No prior programming or data analysis experience is required.
 -   Submit in Canvas
 
 
-### ASSIGNMENT 2 DUE Saturday 23 September @ 11.59pm
+### ASSIGNMENT 2 DUE Sunday 24 September @ 11.59pm
 
 
 ## Week 5 - Representing and visualizing data
@@ -398,6 +405,9 @@ No prior programming or data analysis experience is required.
 -   Submit in Canvas
 
 
+### ASSIGNMENT 3 DUE Sunday 01 October @ 11.59pm
+
+
 ## Week 6 - Working with tables, steps in data exploration and comparisons
 
 -   READINGS: `DLF` Ch. 7; `LSD` Ch.3; `DSIC` Part 1 Recap (pp. 41-44)
@@ -423,6 +433,11 @@ No prior programming or data analysis experience is required.
 ### Thursday 05 October
 
 
+### QUIZ 4 DUE - Friday 06 October @ 11.59pm
+
+-   Submit in Canvas
+
+
 ## Week 7 - Reviewing data analysis process
 
 
@@ -438,49 +453,95 @@ No prior programming or data analysis experience is required.
 -   Step 8. Tell the story
 
 
+### Annotated Bibliography Due - Wednesday 11 October @ 11.59pm
+
+-   Submit in Canvas
+
+
 ### Thursday 12 October **NO CLASS FALL BREAK**
 
 
 ### NO QUIZ OR ASSIGNMENT THIS WEEK
 
 
-## Week 8 -
+## Week 8 - PUBLIC DATA - working with Open Data
+
+-   READINGS: `DLF` Ch. 8; `LSD` Ch.4; `DSIC`  (pp. )
 
 
 ### Tuesday 17 October
 
+-   More `pandas`
+-   Reshaping and merging data frames
+    -   wide to long using `melt()`
+    -   long to wide using `pivot()`
+    -   using `merge()` and column joins
+
 
 ### Thursday 19 October
 
+-   Working with Open Data using `pandas`
 
-## Week 9 -
+
+### QUIZ 5 DUE - Friday 20 October @ 11.59pm
+
+-   Submit in Canvas
+
+
+### Short Essay Due - Sunday 22 October @ 11.59pm
+
+-   Submit in Canvas
+
+
+## Week 9 - Examing change over time
 
 
 ### Tuesday 24 October
 
+-   Patterns in data over time
+    -   Trends
+    -   Cycles
+
 
 ### Thursday 26 October
 
+-   Working with temporal data in `pandas`
+    -   `datetime` index
+    -   temporal grouping and aggregation
 
-## Week 10 -
+
+## Week 10 - Privacy, Data Storytelling and Web Scraping
+
+-   Reading: \`LSD\` Ch.6
 
 
 ### Tuesday 31 October
+
+-   Data story telling
+-   Examples of investigating data
+-   Privacy
+-   Example of web scraping to check data
 
 
 ### Thursday 02 November
 
 
-## Week 11 -
+## Week 11 - Ways to use data in stories, geodata and mapping and R basics (Part 1)
+
+-   Reading: \`LSD\` Ch.7 and tidy chapter
 
 
 ### Tuesday 07 November
+
+-   Introduction to R using \`tidyverse\` and \`ggplot\`
 
 
 ### Thursday 09 November
 
 
-## Week 12 -
+## Week 12 - R basics (Part 2)
+
+-   Reading:  \`LSD\` Ch. 8
 
 
 ### Tuesday 14 November
@@ -489,7 +550,7 @@ No prior programming or data analysis experience is required.
 ### Thursday 16 November
 
 
-## Week 13 -
+## Week 13 - Networks and network data analysis
 
 
 ### Tuesday 21 November
@@ -498,7 +559,7 @@ No prior programming or data analysis experience is required.
 ### Thursday 23 November **NO CLASS THANKSGIVING**
 
 
-## Week 14 -
+## Week 14 - Machine Learning and Artificial Intelligence
 
 
 ### Tuesday 28 November
@@ -507,11 +568,25 @@ No prior programming or data analysis experience is required.
 ### Thursday 30 November
 
 
-## Week 15 -
+### Quantified Self Assignment Due - Friday 1 December @ 11.59pm
+
+-   Submit in Jupyterhub
+
+
+## Week 15 - Project Presentations
 
 
 ### Tuesday 05 December
 
+-   Project presentations
+
 
 ### Thursday 07 December
+
+-   Project presentations
+
+
+## TBA - Due date for Data Project
+
+-   Submit through Jupyterhub
 
