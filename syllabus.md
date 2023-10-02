@@ -296,12 +296,12 @@ No prior programming or data analysis experience is required.
 ### Tuesday 12 September
 
 -   Python basics Part 2
-    -   More on \`list\` objects
+    -   More on `list` objects
     -   Conditional constructs
-        -   Tests and \`if\` constructs
-        -   \`if\` and \`else\`
+        -   Tests and `if` constructs
+        -   `if` and `else`
     -   Walking through data using loops
-        -   \`for\` construct
+        -   `for` construct
 
 -   How assignments work
     -   Assignment 1 overview
@@ -345,7 +345,7 @@ No prior programming or data analysis experience is required.
 ### Tuesday 19 September
 
 -   Python basics Part 3
-    -   Dictionaries (\`dict\` object)
+    -   Dictionaries (`dict` object)
     -   Functions
 
 -   Data structures
@@ -382,11 +382,7 @@ No prior programming or data analysis experience is required.
 ### Tuesday 26 September
 
 -   Working with tabular data
-    -   Using \`pandas\` \`DataFrame\` object
-    -   Plotting with
-        -   \`matplotlib\`
-        -   \`seaborn\`
-        -   \`plotly.express\`
+    -   Using `pandas` `DataFrame` object
 
 
 ### Thursday 28 September
@@ -432,25 +428,42 @@ No prior programming or data analysis experience is required.
 
 ### Thursday 05 October
 
+-   Markdown and Bibtex for Annotated Bibliography and Essay
+-   Plotting with
+    -   `matplotlib`
+    -   `seaborn`
+    -   `plotly.express`
+
 
 ### QUIZ 4 DUE - Friday 06 October @ 11.59pm
 
 -   Submit in Canvas
 
 
+### ASSIGNMENT 4 DUE Sunday 08 October @ 11.59pm
+
+-   Submit in JupyterHub
+
+
 ## Week 7 - Reviewing data analysis process
 
 
-### Tuesday 10 October
+### Tuesday 10 October (ZOOM)
 
--   Step 1. Load data
--   Step 2. Inspect data shape and content
--   Step 3. Describe variables
--   Step 4. Summarize variables
--   Step 5. Clean and subset data
--   Step 6. Look for assications and patterns (2+ variables)
--   Step 7. Build and test models
--   Step 8. Tell the story
+1.  NOTE: This class will be on Zoom
+
+    -   Join in Canvas
+    
+    -   Step 1. Load data
+    -   Step 2. Inspect data shape and content
+    -   Step 3. Describe variables
+    -   Step 4. Summarize variables
+    -   Step 5. Clean and subset data
+    -   Step 6. Look for assications and patterns (2+ variables)
+    -   Step 7. Build and test models
+    -   Step 8. Tell the story
+    
+    -   Review of Python and Pandas so far
 
 
 ### Annotated Bibliography Due - Wednesday 11 October @ 11.59pm
