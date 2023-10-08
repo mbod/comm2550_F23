@@ -440,11 +440,6 @@ No prior programming or data analysis experience is required.
 -   Submit in Canvas
 
 
-### ASSIGNMENT 4 DUE Sunday 08 October @ 11.59pm
-
--   Submit in JupyterHub
-
-
 ## Week 7 - Reviewing data analysis process
 
 
@@ -464,6 +459,11 @@ No prior programming or data analysis experience is required.
     -   Step 8. Tell the story
     
     -   Review of Python and Pandas so far
+
+
+### ASSIGNMENT 4 DUE Wednesday 11 October @ 11.59pm
+
+-   Submit in JupyterHub
 
 
 ### Annotated Bibliography Due - Wednesday 11 October @ 11.59pm
