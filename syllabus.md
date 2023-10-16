@@ -149,13 +149,11 @@ No prior programming or data analysis experience is required.
     2.  *Learning to See Data: How to Interpret the Visual Language of
         Charts* (Abbreviates as `LSD` on schedule)
 
--   Some chapters from following book (Abbreviated as `DSIC` on schedule):
+-   Some chapters from following books (Abbreviated as `DSIC` and `DF` on schedule):
+    1.  Spector, A.Z., Norvig, P., Wiggins, C. and Wing, J.M. (2023). *Data Science in Context: Foundations, Challenges, Opportunities*. Cambrdige: Cambridge University Press.
+        (Book is available online through the library)
     
-    Spector, A.Z., Norvig, P., Wiggins, C. and Wing,
-    J.M. (2023). *Data Science in Context: Foundations, Challenges,
-    Opportunities*. Cambrdige: Cambridge University Press.
-    
-    Book is available online through the library.
+    2.  D'Ignazio, C. and Kleinhttps, L.F. (2020). *Data Feminism* Cambridge, MA: MIT Press. <https://data-feminism.mitpress.mit.edu/>
 
 
 ## References for Python and R coding
@@ -435,7 +433,7 @@ No prior programming or data analysis experience is required.
     -   `plotly.express`
 
 
-### QUIZ 4 DUE - Friday 06 October @ 11.59pm
+### QUIZ 5 DUE - Friday 06 October @ 11.59pm
 
 -   Submit in Canvas
 
@@ -468,7 +466,7 @@ No prior programming or data analysis experience is required.
 
 ### Annotated Bibliography Due - Wednesday 11 October @ 11.59pm
 
--   Submit in Canvas
+-   Submit in JupyterHub
 
 
 ### Thursday 12 October **NO CLASS FALL BREAK**
@@ -480,6 +478,7 @@ No prior programming or data analysis experience is required.
 ## Week 8 - PUBLIC DATA - working with Open Data
 
 -   READINGS: `DLF` Ch. 8; `LSD` Ch.4; `DSIC`  (pp. )
+    Also please make sure to read the Introduction to `DF` <https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6>
 
 
 ### Tuesday 17 October
@@ -496,14 +495,14 @@ No prior programming or data analysis experience is required.
 -   Working with Open Data using `pandas`
 
 
-### QUIZ 5 DUE - Friday 20 October @ 11.59pm
+### QUIZ 6 DUE - Friday 20 October @ 11.59pm
 
 -   Submit in Canvas
 
 
 ### Short Essay Due - Sunday 22 October @ 11.59pm
 
--   Submit in Canvas
+-   Submit in JupyterHub
 
 
 ## Week 9 - Examing change over time
