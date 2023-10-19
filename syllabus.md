@@ -477,7 +477,7 @@ No prior programming or data analysis experience is required.
 
 ## Week 8 - PUBLIC DATA - working with Open Data
 
--   READINGS: `DLF` Ch. 8; `LSD` Ch.4; `DSIC`  (pp. )
+-   READINGS: `DLF` Ch. 8; `LSD` Ch.4; `DSIC` Ch. 4  (pp. 47-60)
     Also please make sure to read the Introduction to `DF` <https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6>
 
 
