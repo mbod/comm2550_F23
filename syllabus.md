@@ -507,6 +507,9 @@ No prior programming or data analysis experience is required.
 
 ## Week 9 - Examing change over time
 
+-   READINGS: `LSD` Chs.5&6; `DSIC` Ch. 5 (pp. 61-73); `DF` Ch. 1
+    (<https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4>)
+
 
 ### Tuesday 24 October
 
@@ -520,6 +523,11 @@ No prior programming or data analysis experience is required.
 -   Working with temporal data in `pandas`
     -   `datetime` index
     -   temporal grouping and aggregation
+
+
+### QUIZ 7 DUE - Friday 27 October @ 11.59pm
+
+-   Submit in Canvas
 
 
 ## Week 10 - Privacy, Data Storytelling and Web Scraping
@@ -536,6 +544,11 @@ No prior programming or data analysis experience is required.
 
 
 ### Thursday 02 November
+
+
+### ASSIGNMENT 5 DUE Sunday 05 November @ 11.59pm
+
+-   Submit in JupyterHub
 
 
 ## Week 11 - Ways to use data in stories, geodata and mapping and R basics (Part 1)
