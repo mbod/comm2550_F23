@@ -1,0 +1,18 @@
+### COMM2550_F23 Short Papers
+
+[Paper 1](beatricegiacaloneroca_short_paper.pdf)
+[Paper 2](dancerz_short_paper.pdf)
+[Paper 3](edstem18_short_paper.pdf)
+[Paper 4](ekeogh03_short_paper.pdf)
+[Paper 5](fiherzog_short_paper.pdf)
+[Paper 6](gregorytasik_short_paper.pdf)
+[Paper 7](hannahk11_short_paper.pdf)
+[Paper 8](index.md)
+[Paper 9](isabellazheng23_short_paper.pdf)
+[Paper 10](kwang1823_short_paper.pdf)
+[Paper 11](mschri_short_paper.pdf)
+[Paper 12](oliviamaltz_short_paper.pdf)
+[Paper 13](phaley28_short_paper.pdf)
+[Paper 14](r-ker_short_paper.pdf)
+[Paper 15](ryan-yuzheyao_short_paper.pdf)
+[Paper 16](yummyhopper_short_paper.pdf)
