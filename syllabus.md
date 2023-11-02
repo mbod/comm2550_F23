@@ -152,8 +152,8 @@ No prior programming or data analysis experience is required.
 -   Some chapters from following books (Abbreviated as `DSIC` and `DF` on schedule):
     1.  Spector, A.Z., Norvig, P., Wiggins, C. and Wing, J.M. (2023). *Data Science in Context: Foundations, Challenges, Opportunities*. Cambrdige: Cambridge University Press.
         (Book is available online through the library)
-    
-    2.  D'Ignazio, C. and Kleinhttps, L.F. (2020). *Data Feminism* Cambridge, MA: MIT Press. <https://data-feminism.mitpress.mit.edu/>
+
+1.  D'Ignazio, C. and Kleinhttps, L.F. (2020). *Data Feminism* Cambridge, MA: MIT Press. <https://data-feminism.mitpress.mit.edu/>
 
 
 ## References for Python and R coding
@@ -530,12 +530,26 @@ No prior programming or data analysis experience is required.
 -   Submit in Canvas
 
 
-## Week 10 - Privacy, Data Storytelling and Web Scraping
-
--   Reading: \`LSD\` Ch.6
+## Week 10 - Ways to use data in stories, geodata and mapping
 
 
 ### Tuesday 31 October
+
+-   HALLOWEEN DATA SPECIAL!!!
+
+
+### Thursday 02 November
+
+-   Using Geospatial data and `geopandas`
+
+
+## Week 11 - Privacy, Data Storytelling and Web Scraping and R basics (Part 1)
+
+-   READINGS: `LSD` Chs.7&8; `DSIC` Ch. 6 (pp. 74-99); `DF` Ch. 4
+    (<https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3?readingCollection=0cd867ef>)
+
+
+### Tuesday 07 November
 
 -   Data story telling
 -   Examples of investigating data
@@ -543,42 +557,48 @@ No prior programming or data analysis experience is required.
 -   Example of web scraping to check data
 
 
-### Thursday 02 November
-
-
-### ASSIGNMENT 5 DUE Sunday 05 November @ 11.59pm
+### ASSIGNMENT 5 DUE Wednesday 08 November @ 11.59pm
 
 -   Submit in JupyterHub
 
 
-## Week 11 - Ways to use data in stories, geodata and mapping and R basics (Part 1)
-
--   Reading: \`LSD\` Ch.7 and tidy chapter
-
-
-### Tuesday 07 November
-
--   Introduction to R using \`tidyverse\` and \`ggplot\`
-
-
 ### Thursday 09 November
+
+-   Introduction to R using `tidyverse` and `ggplot`
+
+-   Initial planning for data project
+
+
+### QUIZ 8 DUE - Friday 10 November @ 11.59pm
+
+-   Submit in Canvas
 
 
 ## Week 12 - R basics (Part 2)
 
--   Reading:  \`LSD\` Ch. 8
-
 
 ### Tuesday 14 November
 
+-   Practicing using `tidyverse` and `ggplot` for EDA and visualization
+-   Data project planning and initial proposal
+
 
 ### Thursday 16 November
+
+-   Working on data projects
+
+
+### ASSIGNMENT 6 DUE Friday 17 November @ 11.59pm
+
+-   Submit in JupyterHub
 
 
 ## Week 13 - Networks and network data analysis
 
 
-### Tuesday 21 November
+### Tuesday 21 November  **CLASS ON ZOOM**
+
+-   Project planning and discussion
 
 
 ### Thursday 23 November **NO CLASS THANKSGIVING**
@@ -589,8 +609,12 @@ No prior programming or data analysis experience is required.
 
 ### Tuesday 28 November
 
+-   Working on data projects
+
 
 ### Thursday 30 November
+
+-   Working on data projects
 
 
 ### Quantified Self Assignment Due - Friday 1 December @ 11.59pm
