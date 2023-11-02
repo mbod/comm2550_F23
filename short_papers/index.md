@@ -6,7 +6,6 @@
 - [Paper 4](ekeogh03_short_paper.pdf)
 - [Paper 5](fiherzog_short_paper.pdf)
 - [Paper 7](hannahk11_short_paper.pdf)
-- [Paper 8](index.md)
 - [Paper 9](isabellazheng23_short_paper.pdf)
 - [Paper 10](kwang1823_short_paper.pdf)
 - [Paper 11](mschri_short_paper.pdf)
