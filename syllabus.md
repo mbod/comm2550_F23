@@ -150,8 +150,10 @@ No prior programming or data analysis experience is required.
         Charts* (Abbreviates as `LSD` on schedule)
 
 -   Some chapters from following books (Abbreviated as `DSIC` and `DF` on schedule):
-    1.  Spector, A.Z., Norvig, P., Wiggins, C. and Wing, J.M. (2023). *Data Science in Context: Foundations, Challenges, Opportunities*. Cambrdige: Cambridge University Press.
-        (Book is available online through the library)
+    1.  Spector, A.Z., Norvig, P., Wiggins, C. and Wing,
+        J.M. (2023). *Data Science in Context: Foundations, Challenges,
+        Opportunities*. Cambrdige: Cambridge University Press.  (Book is
+        available online through the library)
 
 1.  D'Ignazio, C. and Kleinhttps, L.F. (2020). *Data Feminism* Cambridge, MA: MIT Press. <https://data-feminism.mitpress.mit.edu/>
 
@@ -569,12 +571,12 @@ No prior programming or data analysis experience is required.
 -   Initial planning for data project
 
 
-### QUIZ 8 DUE - Friday 10 November @ 11.59pm
+## Week 12 - R basics (Part 2)
+
+
+### QUIZ 8 DUE - Monday 13 November @ 11.59pm
 
 -   Submit in Canvas
-
-
-## Week 12 - R basics (Part 2)
 
 
 ### Tuesday 14 November
