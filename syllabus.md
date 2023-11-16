@@ -590,17 +590,22 @@ No prior programming or data analysis experience is required.
 -   Working on data projects
 
 
-### ASSIGNMENT 6 DUE Friday 17 November @ 11.59pm
-
--   Submit in JupyterHub
-
-
 ## Week 13 - Networks and network data analysis
 
 
 ### Tuesday 21 November  **CLASS ON ZOOM**
 
--   Project planning and discussion
+1.  NOTE: This class will be on Zoom
+
+    -   Join in Canvas
+    
+    -   Project planning and discussion
+    -   Working with R (`tidyverse` and `ggplot`)
+
+
+### ASSIGNMENT 6 DUE Wednesday 22  November @ 11.59pm
+
+-   Submit in JupyterHub
 
 
 ### Thursday 23 November **NO CLASS THANKSGIVING**
