@@ -634,15 +634,15 @@ No prior programming or data analysis experience is required.
 
 ### Tuesday 05 December
 
--   Project presentations
+-   Working on data projects
 
 
 ### Thursday 07 December
 
--   Project presentations
+-   Working on data projects
 
 
-## TBA - Due date for Data Project
+## Sunday 24 December @ 11.59pm - Data Project Due
 
 -   Submit through Jupyterhub
 
