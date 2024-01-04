@@ -58,7 +58,7 @@
 ---
 
 
-# Course Description Goals and Objective
+# Course Description Goals and Objectives
 
 Acquiring and demonstrating data literacy, namely, the ability to find,
 appropriately handle, analyze and communicate insights from the rapidly
@@ -92,6 +92,8 @@ No prior programming or data analysis experience is required.
 
 
 # Assessment
+
+:CUSTOM<sub>ID</sub>: assessment
 
 -   Quizes (15%)
     -   Most weeks there will be a short quiz related to the lecture and
